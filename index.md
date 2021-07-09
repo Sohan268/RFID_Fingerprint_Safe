@@ -21,13 +21,13 @@ My second milestone is
 
 <HTML>
 
- <img src="images/IMG_9720.heic" width=150 align=right style="float:right; padding-right:10px">  
+ <img src="images/IMG_9720" width=150 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
 <HTML>
 
- <img src="images/IMG_9721.heic" width=150 align=right style="float:right; padding-right:10px">  
+ <img src="images/IMG_9721" width=150 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
@@ -35,13 +35,13 @@ During my first milestone I tested the servo motor with a simple sweep code foun
 
 <HTML>
 
- <img src="images/IMG_9712.HEIC" width=150 align=right style="float:right; padding-right:10px">  
+ <img src="images/IMG_9712" width=150 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
 <HTML>
 
- <img src="images/IMG_9716.heic" width=150 align=right style="float:right; padding-right:10px">  
+ <img src="images/IMG_9716" width=150 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
@@ -55,7 +55,7 @@ The steps I took during my first milestone began with connecting the servo to th
 
 <HTML>
 
- <img src="image/IMG_9711.heic" width=150 align=center style="float:center; padding-right:10px">  
+ <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Farduinolearning.com%2Fcode%2Farduino-uno-rfid-rc522-example.php&psig=AOvVaw1GU8ESK1YaGtws4eom1zvV&ust=1625926356987000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJC9-eqV1vECFQAAAAAdAAAAABAI" width=150 align=center style="float:center; padding-right:10px">  
 
 </HTML>
 
