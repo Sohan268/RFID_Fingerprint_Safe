@@ -5,7 +5,7 @@ This is a RFID and fingerprint safe that uses RFID technology and a fingerprint 
 |:--:|:--:|:--:|:--:|
 | Sohan Shah | Xavier High School | Biomedical / Civil Engineering | Incoming Junior
 
-![Headstone Image]<img src="images/RFID:Fingerprint.jpg" width=200 align=center style="float:center; padding-right:10px">
+![Headstone Image]<img src="images/RFID:Fingerprint.jpg" width=700 align=center style="float:center; padding-right:10px">
   
 # Final Milestone
 My final milestone is  
@@ -50,13 +50,13 @@ The steps I took during my first milestone began with connecting the servo to th
 
 <HTML>
 
- <img src="images/Servo.jpg" width=150 align=center style="float:center; padding-right:10px">  
+ <img src="images/Servo.jpg" width=300 align=left style="float:left; padding-right:10px">  
 
 </HTML>
 
 <HTML>
 
- <img src="images/RFID.jpg" width=150 align=center style="float:center; padding-right:10px">  
+ <img src="images/RFID.jpg" width=300 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
