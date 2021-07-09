@@ -49,13 +49,13 @@ The steps I took during my first milestone began with connecting the servo to th
 
 <HTML>
 
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.arduino.cc%2Fen%2FTutorial%2FLibraryExamples%2FSweep%2F&psig=AOvVaw2BKK2G1GvZHRF_9H3x8wTD&ust=1625924541710000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLDnhImP1vECFQAAAAAdAAAAABAD" width=150 align=center style="float:center; padding-right:10px">  
+ <img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.arduino.cc%2Fen%2FTutorial%2FLibraryExamples%2FSweep%2F&psig=AOvVaw2BKK2G1GvZHRF_9H3x8wTD&ust=1625924541710000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLDnhImP1vECFQAAAAAdAAAAABAD" width=150 align=center style="float:center; padding-right:10px">  
 
 </HTML>
 
 <HTML>
 
- <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Farduinolearning.com%2Fcode%2Farduino-uno-rfid-rc522-example.php&psig=AOvVaw1GU8ESK1YaGtws4eom1zvV&ust=1625926356987000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJC9-eqV1vECFQAAAAAdAAAAABAI" width=150 align=center style="float:center; padding-right:10px">  
+ <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Farduinolearning.com%2Fcode%2Farduino-uno-rfid-rc522example.php&psig=AOvVaw1GU8ESK1YaGtws4eom1zvV&ust=1625926356987000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJC9-eqV1vECFQAAAAAdAAAAABAI" width=150 align=center style="float:center; padding-right:10px">  
 
 </HTML>
 
