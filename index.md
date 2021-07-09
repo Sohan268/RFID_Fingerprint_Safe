@@ -21,13 +21,13 @@ My second milestone is
 
 <HTML>
 
- <img src="image/IMG_9720.heic" width=150 align=right style="float:right; padding-right:10px">  
+ <img src="images/IMG_9720.heic" width=150 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
 <HTML>
 
- <img src="image/IMG_9721.heic" width=150 align=right style="float:right; padding-right:10px">  
+ <img src="images/IMG_9721.heic" width=150 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
@@ -35,13 +35,13 @@ During my first milestone I tested the servo motor with a simple sweep code foun
 
 <HTML>
 
- <img src="image/IMG_9712.HEIC" width=150 align=right style="float:right; padding-right:10px">  
+ <img src="images/IMG_9712.HEIC" width=150 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
 <HTML>
 
- <img src="image/IMG_9716.heic" width=150 align=right style="float:right; padding-right:10px">  
+ <img src="images/IMG_9716.heic" width=150 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
@@ -49,13 +49,13 @@ The steps I took during my first milestone began with connecting the servo to th
 
 <HTML>
 
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.arduino.cc%2Fen%2FTutorial%2FLibraryExamples%2FSweep%2F&psig=AOvVaw2BKK2G1GvZHRF_9H3x8wTD&ust=1625924541710000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLDnhImP1vECFQAAAAAdAAAAABAD" width=150 align=right style="float:right; padding-right:10px">  
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.arduino.cc%2Fen%2FTutorial%2FLibraryExamples%2FSweep%2F&psig=AOvVaw2BKK2G1GvZHRF_9H3x8wTD&ust=1625924541710000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLDnhImP1vECFQAAAAAdAAAAABAD" width=150 align=center style="float:center; padding-right:10px">  
 
 </HTML>
 
 <HTML>
 
- <img src="image/IMG_9711.heic" width=150 align=right style="float:right; padding-right:10px">  
+ <img src="image/IMG_9711.heic" width=150 align=center style="float:center; padding-right:10px">  
 
 </HTML>
 
