@@ -50,13 +50,13 @@ The steps I took during my first milestone began with connecting the servo to th
 
 <HTML>
 
- <img src="" width=150 align=center style="float:center; padding-right:10px">  
+ <img src="images/Servo.jpg" width=150 align=center style="float:center; padding-right:10px">  
 
 </HTML>
 
 <HTML>
 
- <img src="" width=150 align=center style="float:center; padding-right:10px">  
+ <img src="images/RFID.jpg" width=150 align=center style="float:center; padding-right:10px">  
 
 </HTML>
 
