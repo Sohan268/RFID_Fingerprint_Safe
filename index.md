@@ -21,13 +21,13 @@ My second milestone is
 
 <HTML>
 
- <img src="image/IMG_9712.HEIC" width=150 align=right style="float:right; padding-right:10px">  
+ <img src="image/IMG_9720.heic" width=150 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
 <HTML>
 
- <img src="image/IMG_9716.heic" width=150 align=right style="float:right; padding-right:10px">  
+ <img src="image/IMG_9721.heic" width=150 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
@@ -47,6 +47,17 @@ During my first milestone I tested the servo motor with a simple sweep code foun
 
 The steps I took during my first milestone began with connecting the servo to the Arduino. The servo had three wires attached to it, one for power, ground, and the third wire is where information travels that tells the servo how far the servo should move left or right. After attaching the wires to their corresponding pins on the Arduino, I found code on the Arduino IDE that swings the servo which I used to test the servo. This code uses a “for loop” to ensure that the servo moves a certain amount of degrees, then returns back to its original position. I ran into a minor issue with uploading the code to my Arduino, but it was simply a privacy issue. After testing the servo, I moved onto the other major component which is the RFID reader. Before I could test it, I first soldered the pins that came with the RFID sensor to it so I could attach jumper wires and connect those to the Arduino. Once the sensor was connected to the Arduino I decided to test it to eventually have the RFID sensor trigger the servo to move 90 degrees. I found code online that was similar to my goal of using the RFID to turn on a servo, but I had to first download an external library which I never have done before. After learning how to do so by downloading and moving files I eventually successfully downloaded the RFID library needed for the code to work. In order for the code to be compatible with my RFID tag, I had to have the RFID sensor read the tag to print the tag’s unique identification number of the serial monitor. I input the identification number into my code so that my card will be read as the correct card when sensed. After doing so, I also manipulated other parts of the code in order to ensure the servo turned correctly. Finally I tested the code, and it was a success where when the RFID tag was sensed by the reader, the servo turned 90 degrees. After testing this circuit I realized that I had no way to return the servo back to the locked position, so I added a reset button where reset the code and brought everything back to where it was before the code had run where the servo was in the lock position.
 
+<HTML>
+
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.arduino.cc%2Fen%2FTutorial%2FLibraryExamples%2FSweep%2F&psig=AOvVaw2BKK2G1GvZHRF_9H3x8wTD&ust=1625924541710000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLDnhImP1vECFQAAAAAdAAAAABAD" width=150 align=right style="float:right; padding-right:10px">  
+
+</HTML>
+
+<HTML>
+
+ <img src="image/IMG_9711.heic" width=150 align=right style="float:right; padding-right:10px">  
+
+</HTML>
 
 Add code I used...
 
