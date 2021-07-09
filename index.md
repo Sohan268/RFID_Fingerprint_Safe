@@ -61,4 +61,4 @@ The steps I took during my first milestone began with connecting the servo to th
 
 Add code I used...
 
-[![First Milestone] Under Construction {:target="_blank" rel="noopener"}
+[![First Milestone] https://youtu.be/GdxWI6m55lo {:target="_blank" rel="noopener"}
