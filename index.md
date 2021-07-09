@@ -5,7 +5,7 @@ This is a RFID and fingerprint safe that uses RFID technology and a fingerprint 
 |:--:|:--:|:--:|:--:|
 | Sohan Shah | Xavier High School | Biomedical / Civil Engineering | Incoming Junior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](RFID:Fingerprint.jpg)
   
 # Final Milestone
 My final milestone is  
