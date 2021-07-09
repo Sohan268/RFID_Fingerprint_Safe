@@ -61,4 +61,4 @@ The steps I took during my first milestone began with connecting the servo to th
 
 Add code I used...
 
-[![First Milestone] [![Milestone 1 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1625842096/video_to_markdown/images/youtube--GdxWI6m55lo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/GdxWI6m55lo "Milestone 1 Video") {:target="_blank" rel="noopener"}
+[![Milestone 1 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1625842096/video_to_markdown/images/youtube--GdxWI6m55lo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/GdxWI6m55lo "Milestone 1 Video"){:target="_blank" rel="noopener"}
