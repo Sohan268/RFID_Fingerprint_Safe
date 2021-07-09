@@ -21,13 +21,13 @@ My second milestone is
 
 <HTML>
 
- <img src="images/IMG_9720" width=150 align=right style="float:right; padding-right:10px">  
+ <img src="images/IMG_9720.jpg" width=150 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
 <HTML>
 
- <img src="images/IMG_9721" width=150 align=right style="float:right; padding-right:10px">  
+ <img src="images/IMG_9721.jpg" width=150 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
@@ -35,13 +35,13 @@ During my first milestone I tested the servo motor with a simple sweep code foun
 
 <HTML>
 
- <img src="images/IMG_9712" width=150 align=right style="float:right; padding-right:10px">  
+ <img src="images/IMG_9712.jpg" width=150 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
 <HTML>
 
- <img src="images/IMG_9716" width=150 align=right style="float:right; padding-right:10px">  
+ <img src="images/IMG_9716.jpg" width=150 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
