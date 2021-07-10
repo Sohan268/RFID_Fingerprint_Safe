@@ -6,8 +6,10 @@ This is a RFID and fingerprint safe that uses RFID technology and a fingerprint 
 | Sohan Shah | Xavier High School | Biomedical / Civil Engineering | Incoming Junior
 
 <HTML>
+  
 <img src="images/RFID:Fingerprint.jpg" width=700 align=center style="float:center; padding-right:10px">
-  </HTML>
+  
+</HTML>
   
 # Final Milestone
 My final milestone is  
@@ -18,13 +20,13 @@ My final milestone is
 
 <HTML>
 
- <img src="images/Scanner.jpg" width=300 align=left style="float:left; padding-right:10px">  
+ <img src="images/Scanner.jpg" width=200 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
 <HTML>
 
- <img src="images/buzzer.jpg" width=500 align=right style="float:right; padding-right:10px">  
+ <img src="images/buzzer.jpg" width=200 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
