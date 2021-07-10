@@ -16,6 +16,17 @@ My final milestone is
 
 # Second Milestone
 
+<HTML>
+
+ <img src="images/Scanner.jpg" width=300 align=left style="float:left; padding-right:10px">  
+
+</HTML>
+
+<HTML>
+
+ <img src="images/buzzer.jpg" width=500 align=right style="float:right; padding-right:10px">  
+
+</HTML>
 
 
 My second milestone is 
