@@ -8,6 +8,7 @@ This is a RFID and fingerprint safe that uses RFID technology and a fingerprint 
 <HTML>
 <img src="images/RFID:Fingerprint.jpg" width=700 align=center style="float:center; padding-right:10px">
   </HTML>
+  
 # Final Milestone
 My final milestone is  
 
