@@ -14,6 +14,13 @@ My final milestone is
 [![Final Milestone] Under construction {:target="_blank" rel="noopener"}
 
 # Second Milestone
+
+<HTML>
+
+ <img src="images/Finger.jpg" width=200 align=right style="float:right; padding-right:10px">  
+
+</HTML>
+
 My second milestone is 
 
 [![Milestone 2 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1625876159/video_to_markdown/images/youtube--NUQF3P64RwM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/NUQF3P64RwM "Milestone 2 Video"){:target="_blank" rel="noopener"}
