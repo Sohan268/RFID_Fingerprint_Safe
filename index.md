@@ -20,16 +20,21 @@ My final milestone is
 
 <HTML>
 
- <img src="images/buzzer.jpg" width=200 align=right style="float:right; padding-right:10px">  
+ <img src="images/Scanner.jpg" width=200 align=right style="float:right; padding-right:10px">  
 
 </HTML>
-
 
 My second milestone is 
 
 <HTML>
 
  <img src="images/Oldservo.jpg" width=200 align=right style="float:right; padding-right:10px">  
+
+</HTML>
+
+<HTML>
+
+ <img src="images/buzzer.jpg" width=200 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
