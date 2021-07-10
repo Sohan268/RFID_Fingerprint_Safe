@@ -22,13 +22,13 @@ My second milestone is
 
 <HTML>
 
- <img src="images/Finger.jpg" width=200 align=right style="float:right; padding-right:10px">  
+ <img src="images/Finger.jpg" width=300 align=left style="float:left; padding-right:10px">  
 
 </HTML>
 
 <HTML>
 
- <img src="images/speaker.jpg" width=200 align=right style="float:right; padding-right:10px">  
+ <img src="images/speaker.jpg" width=300 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
