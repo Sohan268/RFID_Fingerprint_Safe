@@ -28,7 +28,7 @@ My second milestone is
 
 <HTML>
 
- <img src="images/speaker.jpg" width=300 align=right style="float:right; padding-right:10px">  
+ <img src="images/speaker.jpg" width=500 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
