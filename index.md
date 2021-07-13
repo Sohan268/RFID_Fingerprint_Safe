@@ -74,6 +74,8 @@ The steps I took during this milestone start with calibrating the fingerprint se
 <br>
 <br>
 <br>
+<br>
+<br>
 
 
 
