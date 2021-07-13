@@ -30,7 +30,7 @@ The steps I took during this milestone began with downloading an external
 
 <HTML>
 
- <img src="images/Scanner.jpg" width=200 align=right style="float:right; padding-right:10px">  
+ <img src="images/Scanner.jpg" width=250 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
@@ -39,13 +39,13 @@ During my second milestone I tested the fingerprint scanner, added a buzzer to p
 
 <HTML>
 
- <img src="images/Oldservo.jpg" width=200 align=right style="float:right; padding-right:10px">  
+ <img src="images/Oldservo.jpg" width=300 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
 <HTML>
 
- <img src="images/buzzer.jpg" width=200 align=right style="float:right; padding-right:10px">  
+ <img src="images/buzzer.jpg" width=300 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 
