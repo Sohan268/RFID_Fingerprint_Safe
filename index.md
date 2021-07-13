@@ -124,6 +124,8 @@ The steps I took during my first milestone began with connecting the servo to th
 
 </HTML>
 
+<br>
+
 Add code I used...
 
 
