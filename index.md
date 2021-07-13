@@ -42,6 +42,11 @@ During my second milestone I tested the fingerprint scanner, added a buzzer to p
  <img src="images/Oldservo.jpg" width=300 align=right style="float:right; padding-right:10px">  
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
  <img src="images/buzzer.jpg" width=300 align=right style="float:right; padding-right:10px">  
 
 </HTML>
