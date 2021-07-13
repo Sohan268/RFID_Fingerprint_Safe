@@ -59,9 +59,16 @@ The steps I took during this milestone start with calibrating the fingerprint se
 
 <HTML>
 
- <img src="images/speaker.jpg" width=400 align=left style="float:left; padding-right:10px">  
+ <img src="images/speaker.jpg" width=500 align=left style="float:left; padding-right:10px">  
 
 </HTML>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Add code I used...
 
