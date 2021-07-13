@@ -16,6 +16,13 @@ My final milestone is
 
 [![Final Milestone] Under construction {:target="_blank" rel="noopener"}
 
+# Third Milestone
+My third milestone is 
+
+The steps I took during this milestone began with downloading an external 
+
+[![Third Milestone] Under construction {:target="_blank" rel="noopener"}
+
 # Second Milestone
 
 <HTML>
