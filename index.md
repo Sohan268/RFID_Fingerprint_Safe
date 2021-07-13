@@ -46,6 +46,19 @@ During my second milestone I tested the fingerprint scanner, added a buzzer to p
 <br>
 <br>
 <br>
+  <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
  <img src="images/buzzer.jpg" width=300 align=right style="float:right; padding-right:10px">  
 
