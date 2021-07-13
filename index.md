@@ -25,6 +25,9 @@ The steps I took during this milestone began with downloading an external
 
 # Second Milestone
 
+[![Milestone 2 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1625876159/video_to_markdown/images/youtube--NUQF3P64RwM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/NUQF3P64RwM "Milestone 2 Video"){:target="_blank" rel="noopener"}
+
+
 <HTML>
 
  <img src="images/Scanner.jpg" width=200 align=right style="float:right; padding-right:10px">  
@@ -62,9 +65,10 @@ The steps I took during this milestone start with calibrating the fingerprint se
 
 Add code I used...
 
-[![Milestone 2 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1625876159/video_to_markdown/images/youtube--NUQF3P64RwM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/NUQF3P64RwM "Milestone 2 Video"){:target="_blank" rel="noopener"}
 
 # First Milestone
+
+[![Milestone 1 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1625842096/video_to_markdown/images/youtube--GdxWI6m55lo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/GdxWI6m55lo "Milestone 1 Video"){:target="_blank" rel="noopener"}
 
 <HTML>
 
@@ -104,11 +108,16 @@ The steps I took during my first milestone began with connecting the servo to th
 
 </HTML>
 
+<br>
+
 <HTML>
 
  <img src="images/RFID.jpg" width=300 align=right style="float:right; padding-right:10px">  
 
 </HTML>
+
+<br>
+
 <HTML>
 
  <img src="images/Reset.jpg" width=200 align=right style="float:right; padding-right:10px">  
@@ -117,4 +126,4 @@ The steps I took during my first milestone began with connecting the servo to th
 
 Add code I used...
 
-[![Milestone 1 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1625842096/video_to_markdown/images/youtube--GdxWI6m55lo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/GdxWI6m55lo "Milestone 1 Video"){:target="_blank" rel="noopener"}
+
