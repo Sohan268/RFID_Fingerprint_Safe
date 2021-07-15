@@ -18,7 +18,7 @@ My final milestone is
 
 # Third Milestone
 
-[![Third Milestone] Under construction {:target="_blank" rel="noopener"}
+[![Milestone 3 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1626393466/video_to_markdown/images/youtube--cDFNJz2RRdY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=cDFNJz2RRdY "Milestone 3 Video") {:target="_blank" rel="noopener"}
 <HTML>
 
  <img src="images/microphone.jpg" width=250 align=right style="float:right; padding-right:10px">  
