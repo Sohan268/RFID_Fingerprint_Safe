@@ -17,11 +17,31 @@ My final milestone is
 [![Final Milestone] Under construction {:target="_blank" rel="noopener"}
 
 # Third Milestone
-My third milestone is 
-
-The steps I took during this milestone began with downloading an external 
 
 [![Third Milestone] Under construction {:target="_blank" rel="noopener"}
+
+During my third milestone, I added the LCD screen, the RFID tag, and the voice recognition module. The LCD screen is a 16x2 screen that can display characters by being backlit. The voice recognition module does not recognize an exact person’s voice but it understands that pitch and generally how the user sounds. The circuit with these two modifications works by first sensing the RFID card or tag, and if the correct one is sensed, the code would move onto the next layer of security which is the fingerprint scanner. If the correct fingerprint is scanned, the voice recognition module would turn on and be listening to hear the word “open.” If the word “open” is said, the servo will open the safe. This whole time prompts are appearing on the LCD screen telling the user when to do and when to use the various sensors. To lock the safe, the user can either press the reset button or say the word “lock” which would close the safe.
+
+The steps I took during this milestone began with downloading an external library because I was using an i2c module that acted as an adapter for the LCD display. The LCD display has 16 ports that the i2c module is able to cut down to 4 ports which allows my Arduino to have more room for the various other components that are a part of my project. After attaching the correct pins to the corresponding ports on the Arduino, I found a simple code on the internet that displays characters on the LCD display. I used this code as a way to learn about the different commands involved with displaying words on an LCD display. I learned that the LCD display is like a coordinate grid where you have to set what is being written on each line as well as the column the words will start on. When initially uploading this simple code, I ran into an error and this ended up occurring because of the external library I downloaded. The issue was that the setup command that I had in my code differed from the one found in the library I downloaded. After adjusting my code, it worked perfectly displaying my name on the screen. Knowing the LCD display works and knowing the code involved with the module, I was able to integrate this LCD code into my main code. I did not have to add any if statements because they were already in place. This is because previously I had to code the various sensors to work in a series which involved multiple if statements to tell the sensors when to turn on. I coded the LCD to display messages prompting the user to, for example, scan their finger or card, and even had the display let the user know if the safe was unlocked or locked.
+
+I added a second RFID card that would have access to the safe. When the second card is read, it would also be able to be sensed as correct. I did this by using “||” which essentially means “or” in code, so if either the RFID card or tag was sensed, they would both be sensed as correct and allow the code to move onto the next step.
+
+After adding the LCD display, I began to work on the voice recognition module. The module did not come with pins that I could use to connect wires to, so I had to use pins from another module I was not using. I soldered those pins onto the voice recognition module then attached the wires to the corresponding ports on the Arduino. I found conflicting information on what ports I should use on the Arduino. Most sources said to attach them to ports 0 and 1 which are used specifically for serial communication which is important for the voice recognition module. Using these ports did not work, so I decided to use the regular digital pins and defined them as so in my code which ended up working. After successfully connecting the module, I downloaded an external library that included code to both set up and turn on an led with the voice recognition module. Setting up the voice recognition module was not too difficult as there was a menu in the serial monitor telling me what commands to type in order to train the module to recognize what I was saying. At first this was not working due to the pins beginning in the wrong ports, but was easily fixed by changing and redefining the pins. The two commands I trained the module to recognize were the words “open” and “lock.” I connected a green led to my Arduino and tested the voice recognition with it, which worked. I was able to turn on the led by saying “open” and turn it off by saying “lock.” The reason why I am using these words is because they made sense with opening and locking the safe box. 
+
+I modified the led code to turn a servo, then combined this code with my main code to add the voice recognition as a third level of security. Combining the voice recognition code with the main code was more difficult compared to combining the codes of the other sensors. First, I ran into the issue that my code file had become so large it became almost too large for the Arduino to handle with its little RAM. To counter this, I decided to delete some of the unnecessary code that printed messages on the serial monitor. I combined the code together to how I thought it should be and it complied, but when the code reached the part with the fingerprint scanner, the serial monitor would read “communication error.” I isolated this problem to be that there was an issue in the setup with the fingerprint scanner and voice recognition module. In order to respond to this issue, I moved the set up for the voice recognition module until after the fingerprint module turned off, and before the voice recognition module turned on. This was a successful fix and now the voice recognition module worked. 
+
+In order to lock the safe, I already have a reset button in place, but wanted to also have another option to reset and lock the safe using the voice recognition module. I had to define a variable and add an if statement, taking similar steps to when I used the voice recognition to open the safe. Initially I thought I could have a function that just said “ reset;” but that did not work. I looked up other ways to reset the code and found a command which ended up working. When I said “lock” the servo turned locking the safe.
+
+<HTML>
+
+ <img src="images/" width=250 align=left style="float:left; padding-right:10px">  
+  
+ <img src="images/" width=250 align=left style="float:left; padding-right:10px">
+ 
+ <img src="images/" width=250 align=left style="float:left; padding-right:10px"> 
+
+</HTML>
+
 
 # Second Milestone
 
