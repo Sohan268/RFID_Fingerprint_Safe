@@ -34,15 +34,27 @@ In order to lock the safe, I already have a reset button in place, but wanted to
 
 <HTML>
 
- <img src="images/External-Button_op1-1024x715.png" width=250 align=left style="float:left; padding-right:10px">  
+ <img src="images/External-Button_op1-1024x715.png" width=300 align=left style="float:left; padding-right:10px">  
   
- <img src="images/voice-recognition-arduino-hookup.png" width=250 align=left style="float:left; padding-right:10px">
+ <img src="images/voice-recognition-arduino-hookup.png" width=300 align=left style="float:left; padding-right:10px">
  
  <img src="images/Basic-LED.png" width=250 align=left style="float:left; padding-right:10px"> 
 
 </HTML>
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 # Second Milestone
 
 [![Milestone 2 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1625876159/video_to_markdown/images/youtube--NUQF3P64RwM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/NUQF3P64RwM "Milestone 2 Video"){:target="_blank" rel="noopener"}
