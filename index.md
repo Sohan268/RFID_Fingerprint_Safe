@@ -36,7 +36,7 @@ In order to lock the safe, I already have a reset button in place, but wanted to
 
  <img src="images/External-Button_op1-1024x715.png" width=250 align=left style="float:left; padding-right:10px">  
   
- <img src="images/" width=250 align=left style="float:left; padding-right:10px">
+ <img src="images/voice-recognition-arduino-hookup.png" width=250 align=left style="float:left; padding-right:10px">
  
  <img src="images/Basic-LED.png" width=250 align=left style="float:left; padding-right:10px"> 
 
