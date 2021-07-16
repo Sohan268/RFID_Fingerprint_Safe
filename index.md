@@ -33,19 +33,16 @@ During my third milestone, I added the LCD screen, the RFID tag, and the voice r
 The steps I took during this milestone began with downloading an external library because I was using an i2c module that acted as an adapter for the LCD display. The LCD display has 16 ports that the i2c module is able to cut down to 4 ports which allows my Arduino to have more room for the various other components that are a part of my project. After attaching the correct pins to the corresponding ports on the Arduino, I found a simple code on the internet that displays characters on the LCD display. I used this code as a way to learn about the different commands involved with displaying words on an LCD display. I learned that the LCD display is like a coordinate grid where you have to set what is being written on each line as well as the column the words will start on. When initially uploading this simple code, I ran into an error and this ended up occurring because of the external library I downloaded. The issue was that the setup command that I had in my code differed from the one found in the library I downloaded. After adjusting my code, it worked perfectly displaying my name on the screen. Knowing the LCD display works and knowing the code involved with the module, I was able to integrate this LCD code into my main code. I did not have to add any if statements because they were already in place. This is because previously I had to code the various sensors to work in a series which involved multiple if statements to tell the sensors when to turn on. I coded the LCD to display messages prompting the user to, for example, scan their finger or card, and even had the display let the user know if the safe was unlocked or locked.
 <HTML>
 
- <img src="images/rfid2.jpg" width=100 align=right style="float:right; padding-right:10px">  
+ <img src="images/rfid2.jpg" width=150 align=right style="float:right; padding-right:10px">  
 
 </HTML>
 I added a second RFID card that would have access to the safe. When the second card is read, it would also be able to be sensed as correct. I did this by using “||” which essentially means “or” in code, so if either the RFID card or tag was sensed, they would both be sensed as correct and allow the code to move onto the next step.
 <HTML>
+<br>
 
- <img src="images/led:mic.jpg" width=250 align=right style="float:right; padding-right:10px">  
-  <br>
-<br>
-<br>
-<br>
-<br>
-  <img src="images/training.jpg" width=250 align=right style="float:right; padding-right:10px">  
+ <img src="images/led:mic.jpg" width=200 align=right style="float:right; padding-right:10px">  
+ 
+  <img src="images/training.jpg" width=200 align=right style="float:right; padding-right:10px">  
 
 
 </HTML>
