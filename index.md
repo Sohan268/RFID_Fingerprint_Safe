@@ -65,12 +65,13 @@ After adding the LCD display, I began to work on the voice recognition module. T
 </HTML>
 I modified the led code to turn a servo, then combined this code with my main code to add the voice recognition as a third level of security. Combining the voice recognition code with the main code was more difficult compared to combining the codes of the other sensors. First, I ran into the issue that my code file had become so large it became almost too large for the Arduino to handle with its little RAM. To counter this, I decided to delete some of the unnecessary code that printed messages on the serial monitor. I combined the code together to how I thought it should be and it complied, but when the code reached the part with the fingerprint scanner, the serial monitor would read “communication error.” I isolated this problem to be that there was an issue in the setup with the fingerprint scanner and voice recognition module. In order to respond to this issue, I moved the set up for the voice recognition module until after the fingerprint module turned off, and before the voice recognition module turned on. This was a successful fix and now the voice recognition module worked. 
 
-[Voice Recognition, LCD, Buzzer, Fingerprint Scanner, RFID & Servo Code](images/voice.ino)
+
 
 
 
 In order to lock the safe, I already have a reset button in place, but wanted to also have another option to reset and lock the safe using the voice recognition module. I had to define a variable and add an if statement, taking similar steps to when I used the voice recognition to open the safe. Initially I thought I could have a function that just said “reset;” but that did not work. I looked up other ways to reset the code and found a command which ended up working. When I said “lock” the servo turned locking the safe.
 
+[Voice Control, LCD, Buzzer, Fingerprint Scanner, RFID & Servo Code](images/voice.ino)
 <HTML>
 
  <img src="images/External-Button_op1-1024x715.png" width=300 align=left style="float:left; padding-right:10px">  
