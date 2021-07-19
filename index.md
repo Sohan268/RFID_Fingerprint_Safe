@@ -223,7 +223,7 @@ After testing the servo, I moved onto the other major component which is the RFI
 
 </HTML>
 
-# Parts List
+# Materials
 
 1.Arduino
 <br>
