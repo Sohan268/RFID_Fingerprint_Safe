@@ -240,30 +240,30 @@ After testing the servo, I moved onto the other major component which is the RFI
 7.I2C LCD adapter
 <br>
 8. Voice Recognition Module
-9. <br>
-10. Led Lights (4)
-11. <br>
-12. Resistors (4)
-13. <br>
-14. Jumper Wires (Many)
-15. <br>
-16.Arduino Power Adapter
 <br>
-17.Sound Sensor
+9. Led Lights (4)
 <br>
-18.Button
+10. Resistors (4)
+ <br>
+11. Jumper Wires (Many)
 <br>
-19.Servo
+12.Arduino Power Adapter
 <br>
-20.Servo Housing Bracket
+13.Sound Sensor
 <br>
-21.Pine Wood
+14.Button
 <br>
-22.Hinges (2)
+15.Servo
 <br>
-23.Perf Boards (2)
+16.Servo Housing Bracket
 <br>
-24. Header Pins (3)
+17.Pine Wood
+<br>
+18.Hinges (2)
+<br>
+19.Perf Boards (2)
+<br>
+20. Header Pins (3)
 
 
 
