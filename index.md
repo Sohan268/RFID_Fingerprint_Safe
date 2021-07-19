@@ -39,6 +39,9 @@ During my third milestone, I added the LCD screen, the RFID tag, and the voice r
 
 </HTML>
 The steps I took during this milestone began with downloading an external library because I was using an i2c module that acted as an adapter for the LCD display. The LCD display has 16 ports that the i2c module is able to cut down to 4 ports which allows my Arduino to have more room for the various other components that are a part of my project. After attaching the correct pins to the corresponding ports on the Arduino, I found a simple code on the internet that displays characters on the LCD display. I used this code as a way to learn about the different commands involved with displaying words on an LCD display. I learned that the LCD display is like a coordinate grid where you have to set what is being written on each line as well as the column the words will start on. When initially uploading this simple code, I ran into an error and this ended up occurring because of the external library I downloaded. The issue was that the setup command that I had in my code differed from the one found in the library I downloaded. After adjusting my code, it worked perfectly displaying my name on the screen. Knowing the LCD display works and knowing the code involved with the module, I was able to integrate this LCD code into my main code. I did not have to add any if statements because they were already in place. This is because previously I had to code the various sensors to work in a series which involved multiple if statements to tell the sensors when to turn on. I coded the LCD to display messages prompting the user to, for example, scan their finger or card, and even had the display let the user know if the safe was unlocked or locked.
+
+[LCD, Buzzer, Fingerprint Scanner, RFID & Servo Code](images/lcd.ino)
+
 <HTML>
 
  <img src="images/rfid2.jpg" width=150 align=right style="float:right; padding-right:10px">  
@@ -61,6 +64,8 @@ After adding the LCD display, I began to work on the voice recognition module. T
 
 </HTML>
 I modified the led code to turn a servo, then combined this code with my main code to add the voice recognition as a third level of security. Combining the voice recognition code with the main code was more difficult compared to combining the codes of the other sensors. First, I ran into the issue that my code file had become so large it became almost too large for the Arduino to handle with its little RAM. To counter this, I decided to delete some of the unnecessary code that printed messages on the serial monitor. I combined the code together to how I thought it should be and it complied, but when the code reached the part with the fingerprint scanner, the serial monitor would read “communication error.” I isolated this problem to be that there was an issue in the setup with the fingerprint scanner and voice recognition module. In order to respond to this issue, I moved the set up for the voice recognition module until after the fingerprint module turned off, and before the voice recognition module turned on. This was a successful fix and now the voice recognition module worked. 
+
+[Voice Recognition, LCD, Buzzer, Fingerprint Scanner, RFID & Servo Code](images/voice.ino)
 
 <br>
 <br>
