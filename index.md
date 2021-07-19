@@ -116,6 +116,8 @@ The steps I took during this milestone start with calibrating the fingerprint se
 
 </HTML>
 
+[Fingerprint Scanner, RFID & Servo Code](images/Fingerprint Scanner, RFID & Servo Code.ino)
+
 Once this circuit successfully ran, I decided to add a buzzer that would play a melody when the servo opened the safe. First I tested the buzzer by just playing the melody without any conditions telling it to turn on. After this worked, I created a variable in order to turn true when both the RFID and fingerprint sensor read correct readings. Then I created an if statement that said that if the variable that I made was true, to turn on the melody. The last part of this milestone was upgrading the reset button to a bigger and nicer looking button, and switching the plastic geared servo to one that had metal gears and was compatible with metal hardware which would ensure the safe was strong when closed.
 
 <HTML>
@@ -146,7 +148,6 @@ Once this circuit successfully ran, I decided to add a buzzer that would play a 
 
 
 
-Add code I used...
 
 
 # First Milestone
