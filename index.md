@@ -223,6 +223,28 @@ After testing the servo, I moved onto the other major component which is the RFI
 
 </HTML>
 
+# Parts List
+
+1.Arduino
+2.RFID Scanner
+3.RFID Tags (2)
+4.Fingerprint Scanner
+5.Piezo Buzzer
+6.LCD Display
+7.I2C LCD adapter
+8. Voice Recognition Module
+9. Led Lights (4)
+10. Resistors (4)
+11. Jumper Wires (Many)
+12.Arduino Power Adapter
+13.Sound Sensor
+14.Button
+15.Servo
+16.Servo Housing Bracket
+17.Pine Wood
+18.Hinges (2)
+19.Perf Boards (2)
+20. Header Pins (3)
 
 
 
