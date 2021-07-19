@@ -189,6 +189,8 @@ The steps I took during my first milestone began with connecting the servo to th
 </HTML>
 After testing the servo, I moved onto the other major component which is the RFID reader. Before I could test it, I first soldered the pins that came with the RFID sensor to it so I could attach jumper wires and connect those to the Arduino. Once the sensor was connected to the Arduino I decided to test it to eventually have the RFID sensor trigger the servo to move 90 degrees. I found code online that was similar to my goal of using the RFID to turn on a servo, but I had to first download an external library which I never have done before. After learning how to do so by downloading and moving files I eventually successfully downloaded the RFID library needed for the code to work. In order for the code to be compatible with my RFID tag, I had to have the RFID sensor read the tag to print the tag’s unique identification number of the serial monitor. I input the identification number into my code so that my card will be read as the correct card when sensed. After doing so, I also manipulated other parts of the code in order to ensure the servo turned correctly. Finally I tested the code, and it was a success where when the RFID tag was sensed by the reader, the servo turned 90 degrees. After testing this circuit I realized that I had no way to return the servo back to the locked position, so I added a reset button where reset the code and brought everything back to where it was before the code had run where the servo was in the lock position.
 
+[RFID & Servo Code](images/RFIDServo.ino)
+
 <HTML>
 
  <img src="images/Servo.jpg" width=300 align=left style="float:left; padding-right:10px">  
