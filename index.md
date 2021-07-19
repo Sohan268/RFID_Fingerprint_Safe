@@ -67,10 +67,9 @@ I modified the led code to turn a servo, then combined this code with my main co
 
 [Voice Recognition, LCD, Buzzer, Fingerprint Scanner, RFID & Servo Code](images/voice.ino)
 
-<br>
-<br>
 
-In order to lock the safe, I already have a reset button in place, but wanted to also have another option to reset and lock the safe using the voice recognition module. I had to define a variable and add an if statement, taking similar steps to when I used the voice recognition to open the safe. Initially I thought I could have a function that just said “ reset;” but that did not work. I looked up other ways to reset the code and found a command which ended up working. When I said “lock” the servo turned locking the safe.
+
+In order to lock the safe, I already have a reset button in place, but wanted to also have another option to reset and lock the safe using the voice recognition module. I had to define a variable and add an if statement, taking similar steps to when I used the voice recognition to open the safe. Initially I thought I could have a function that just said “reset;” but that did not work. I looked up other ways to reset the code and found a command which ended up working. When I said “lock” the servo turned locking the safe.
 
 <HTML>
 
