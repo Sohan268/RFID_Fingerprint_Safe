@@ -224,6 +224,19 @@ After testing the servo, I moved onto the other major component which is the RFI
  <img src="images/Reset.jpg" width=300 align=left style="float:left; padding-right:10px">  
 
 </HTML>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Materials
 
