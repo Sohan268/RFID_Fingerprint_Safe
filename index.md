@@ -78,11 +78,11 @@ In order to lock the safe, I already have a reset button in place, but wanted to
 [Voice Control, LCD, Buzzer, Fingerprint Scanner, RFID & Servo Code](images/voice.ino)
 <HTML>
 
- <img src="images/External-Button_op1-1024x715.png" width=300 align=left style="float:left; padding-right:10px">  
+ <img src="images/External-Button_op1-1024x715.png" width=250 align=left style="float:left; padding-right:10px">  
   
- <img src="images/voice-recognition-arduino-hookup.png" width=300 align=left style="float:left; padding-right:10px">
+ <img src="images/voice-recognition-arduino-hookup.png" width=250 align=left style="float:left; padding-right:10px">
  
- <img src="images/Basic-LED.png" width=250 align=left style="float:left; padding-right:10px"> 
+ <img src="images/Basic-LED.png" width=200 align=left style="float:left; padding-right:10px"> 
 
 </HTML>
 
