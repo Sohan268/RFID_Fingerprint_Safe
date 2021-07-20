@@ -50,6 +50,21 @@ With my project complete I put all the parts into the safe box. I inserted the p
  <img src="images/sound-detector.png" width=250 align=right style="float:right; padding-right:10px">  
 
 </HTML>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+____________________________________________________________________________________________
+____________________________________________________________________________________________
 
 # Third Milestone
 
@@ -123,6 +138,8 @@ In order to lock the safe, I already have a reset button in place, but wanted to
 <br>
 <br>
 
+____________________________________________________________________________________________
+____________________________________________________________________________________________
 
 # Second Milestone
 
@@ -184,6 +201,8 @@ Once this circuit successfully ran, I decided to add a buzzer that would play a 
 
 
 
+____________________________________________________________________________________________
+____________________________________________________________________________________________
 
 # First Milestone
 
@@ -261,7 +280,8 @@ After testing the servo, I moved onto the other major component which is the RFI
 <br>
 <br>
 <br>
-
+____________________________________________________________________________________________
+____________________________________________________________________________________________
 # Materials
 
 1.Arduino
