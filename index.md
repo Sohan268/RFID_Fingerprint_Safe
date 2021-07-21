@@ -29,7 +29,7 @@ During my final milestone I made the wooden safe box, I added 4 led lights, a so
 
 The steps I took during my final milestone is first testing the neopixels with a simple code found on the Arduino IDE. The code worked and allowed me to change the color and pattern of the neopixels. I then began integrating the code of the neopixels into my main code, and when I uploaded the code to the Arduino, the servo began to glitch and the LCD display faded. After trying to solve this problem, I realized that it was unfixable because there simply was not enough power to fuel the various components on the Arduino. Instead of using neopixels, I decided to use simple led lights. I used four led lights, each different colors and coded them to light up when each level of security on the box was passed. While adding 4 led lights may seem to be simple and easy, it was actually quite hard. Soldering each led, resistor, and wire to the perf board was not easy as these components were all close together so it was not easy making solder tracks. After soldering, I connected all of the leds to the Arduino and had to use the analog pins because all of the digital pins were already being used.
 <HTML>
-<p style="background-color:Tomato;">[LED, Voice Control, LCD, Buzzer, Fingerprint Scanner, RFID & Servo Code](images/led.ino)</p> 
+<p style="background-color:Tomato;"><a href="[LED, Voice Control, LCD, Buzzer, Fingerprint Scanner, RFID & Servo Code](images/led.ino)"</a></p> 
 </HTML>
 <HTML>
 
