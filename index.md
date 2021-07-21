@@ -30,8 +30,8 @@ During my final milestone I made the wooden safe box, I added 4 led lights, a so
 The steps I took during my final milestone is first testing the neopixels with a simple code found on the Arduino IDE. The code worked and allowed me to change the color and pattern of the neopixels. I then began integrating the code of the neopixels into my main code, and when I uploaded the code to the Arduino, the servo began to glitch and the LCD display faded. After trying to solve this problem, I realized that it was unfixable because there simply was not enough power to fuel the various components on the Arduino. Instead of using neopixels, I decided to use simple led lights. I used four led lights, each different colors and coded them to light up when each level of security on the box was passed. While adding 4 led lights may seem to be simple and easy, it was actually quite hard. Soldering each led, resistor, and wire to the perf board was not easy as these components were all close together so it was not easy making solder tracks. After soldering, I connected all of the leds to the Arduino and had to use the analog pins because all of the digital pins were already being used.
 <HTML>
 <p style="background-color:Tomato;">[LED, Voice Control, LCD, Buzzer, Fingerprint Scanner, RFID & Servo Code](images/led.ino)</p> 
-<HTML>
 </HTML>
+<HTML>
 
  <img src="images/box.jpg" width=250 align=right style="float:right; padding-right:10px">  
 
@@ -69,8 +69,10 @@ With my project complete I put all the parts into the safe box. I inserted the p
 <br>
 <br>
 <br>
+
 ___
 ___
+
 
 # Third Milestone
 
@@ -144,8 +146,10 @@ In order to lock the safe, I already have a reset button in place, but wanted to
 <br>
 <br>
 
+
 ___
 ___
+
 
 # Second Milestone
 
@@ -207,6 +211,7 @@ Once this circuit successfully ran, I decided to add a buzzer that would play a 
 
 ___
 ___
+
 
 # First Milestone
 
@@ -284,6 +289,7 @@ After testing the servo, I moved onto the other major component which is the RFI
 <br>
 <br>
 <br>
+
 ___
 ___
 
@@ -304,13 +310,13 @@ ___
 <br>
 7.I2C LCD adapter
 <br>
-8. Voice Recognition Module
+8.Voice Recognition Module
 <br>
-9. Led Lights (4)
+9.Led Lights (4)
 <br>
-10. Resistors (4)
+10.Resistors (4)
  <br>
-11. Jumper Wires (Many)
+11.Jumper Wires (Many)
 <br>
 12.Arduino Power Adapter
 <br>
@@ -328,7 +334,7 @@ ___
 <br>
 19.Perf Boards (2)
 <br>
-20. Header Pins (3)
+20.Header Pins (3)
 
 
 
