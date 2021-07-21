@@ -70,6 +70,7 @@ With my project complete I put all the parts into the safe box. I inserted the p
 <br>
 ___
 ___
+
 # Third Milestone
 
 [![Milestone 3 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1626393466/video_to_markdown/images/youtube--cDFNJz2RRdY-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=cDFNJz2RRdY "Milestone 3 Video") {:target="_blank" rel="noopener"}
