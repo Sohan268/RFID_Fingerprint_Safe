@@ -34,7 +34,14 @@ The steps I took during my final milestone is first testing the neopixels with a
 
 <HTML>
  <img src="images/box.jpg" width=250 align="right" style="padding-right:10px">  
-<img src="images/box2.jpg" width=250 align="right" style="padding-right:10px">  
+<img src="images/box2.jpg" width=250 align="right" style="padding-right:10px"> 
+  <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+  
 <img src="images/shell.jpg" width=250 align="right" style="padding-right:10px">  
    <img src="images/rawwood.jpg" width=250 align="right" style="padding-right:10px">  
   <img src="images/door1.jpg" width=250 align="right" style="padding-right:10px">  
