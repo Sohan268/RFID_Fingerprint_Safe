@@ -10,7 +10,11 @@ This is a RFID and fingerprint safe that uses RFID technology and a fingerprint 
 <img src="images/final.jpg" width=1000 align=center style="float:center; padding-right:10px">
   
 </HTML>
+# Demo Night
+  {:target="_blank" rel="noopener"}
   
+Overall, my experience as a Bluestamp Engineering student was great. I learned a lot and was able to complete a project that suited my interests and add several modifications of my choosing that were really cool to work with and see working in my final project. Over the course of this project, hard work truly paid off and confirmed my belief that if you are truly passionate about something, you will work as hard as possible and let this passion drive you to work hard and be successful.
+
 # Final Milestone
 
 [![Final Milestone Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1626837173/video_to_markdown/images/youtube--_hy3ZfGBBqc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/_hy3ZfGBBqc "Final Milestone Video"){:target="_blank" rel="noopener"}
