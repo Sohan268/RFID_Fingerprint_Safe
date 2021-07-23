@@ -284,7 +284,7 @@ After testing the servo, I moved onto the other major component which is the RFI
 
 <HTML>
 
- <img src="images/Servo.jpg" width=300 align=left style="float:left; padding-right:10px">  
+ <img src="images/Servo.jpg" width=280 align=left style="float:left; padding-right:10px">  
 
 </HTML>
 
@@ -292,7 +292,7 @@ After testing the servo, I moved onto the other major component which is the RFI
 
 <HTML>
 
- <img src="images/RFID.jpg" width=300 align=left style="float:left; padding-right:10px">  
+ <img src="images/RFID.jpg" width=280 align=left style="float:left; padding-right:10px">  
 
 </HTML>
 
@@ -300,7 +300,7 @@ After testing the servo, I moved onto the other major component which is the RFI
 
 <HTML>
 
- <img src="images/Reset.jpg" width=250 align=left style="float:left; padding-right:10px">  
+ <img src="images/Reset.jpg" width=220 align=left style="float:left; padding-right:10px">  
 
 </HTML>
 <br>
