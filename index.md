@@ -44,18 +44,12 @@ After having the circuit part of my project complete, I made the safe box aspect
    <br>
    
 <HTML>
- <img src="images/box.jpg" width=250 align="right" style="padding-right:10px">  
-<img src="images/box2.jpg" width=250 align="right" style="padding-right:10px"> 
-  <br>
-   <br>
-   <br>
-   <br>
-   <br>
-   <br>
+ <img src="images/box.jpg" width=250 align="left" style="padding-right:10px">  
+<img src="images/box2.jpg" width=250 align="left" style="padding-right:10px">
   
-<img src="images/shell.jpg" width=250 align="right" style="padding-right:10px">  
-   <img src="images/rawwood.jpg" width=250 align="right" style="padding-right:10px">  
-  <img src="images/door1.jpg" width=250 align="right" style="padding-right:10px">  
+<img src="images/shell.jpg" width=250 align="left" style="padding-right:10px">  
+   <img src="images/rawwood.jpg" width=250 align="left" style="padding-right:10px">  
+  <img src="images/door1.jpg" width=250 align="left" style="padding-right:10px">  
 </HTML>
 <br>
    <br>
