@@ -36,8 +36,13 @@ The steps I took during my final milestone is first testing the neopixels with a
 
  <img src="images/box.jpg" width=250 align=right style="float:right; padding-right:10px">  
 
-
  <img src="images/box2.jpg" width=250 align=right style="float:right; padding-right:10px">  
+  
+ <img src="images/shell.jpg" width=250 align=right style="float:right; padding-right:10px">  
+  
+ <img src="images/rawwood.jpg" width=250 align=right style="float:right; padding-right:10px">  
+  
+<img src="images/door1.jpg" width=250 align=right style="float:right; padding-right:10px">    
 
 </HTML>
 After having the circuit part of my project complete, I made the safe box aspect of the project. I used pine wood and cut it with a chop saw to the desired dimensions. I used a Kreg Jig to create pocket holes to connect the sides of the box together. After doing so, I cut a thinner piece of wood for the back side, but continued to use pine wood for the door of the safe. I cut notches in the door for the side to screw the hinges into, then began drilling holes for the various components involved in the circuit. I used a jigsaw for the larger holes that had to be made, such as for the LCD screen and fingerprint scanner, and was able to use drill bits for the button, bizzer, leds, and microphone. Before staining the wood, I sanded the wood to a smooth finish. I used a red mahogany stain for the outside of the safe box and kept the inside with its natural wood finish. To preserve the stain I put a coat of polyurethane on the outside of the box. 
