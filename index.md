@@ -42,16 +42,7 @@ After having the circuit part of my project complete, I made the safe box aspect
    <br>
     <br>
    <br>
-   <br>
-   <br>
-   <br>
-   <br>
-    <br>
-   <br>
-   <br>
-   <br>
-   <br>
-   <br>
+   
 <HTML>
  <img src="images/box.jpg" width=250 align="right" style="padding-right:10px">  
 <img src="images/box2.jpg" width=250 align="right" style="padding-right:10px"> 
@@ -66,6 +57,16 @@ After having the circuit part of my project complete, I made the safe box aspect
    <img src="images/rawwood.jpg" width=250 align="right" style="padding-right:10px">  
   <img src="images/door1.jpg" width=250 align="right" style="padding-right:10px">  
 </HTML>
+<br>
+   <br>
+   <br>
+   <br>
+    <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
 As another modification, I set up a sound sensor to have a threshold high enough so that it does not detect outside noise, just the sound of a knock. I soldered pins onto the sensor and connected the wires from the sensor to the corresponding pins on the Arduino. I found code online to turn on an LED when a knock was detected, and this was successful. Instead of adding this sensor as another level of security for the safe, I decided to create two unlocking paths. The first mode is the original circuit with the RFID, fingerprint scanner, and voice command, but the second mode starts with voice control where you have to say a numerical passcode, then knock, which opens the safe. I first separately created code to make this circuit with the voice command password and knock sensor. Creating this code was not difficult but I ran into minor bugs along the way which I fixed by making small adjustments. The code worked by having several "if" statements that when fulfilled would set a variable true allowing the next “if statement to occur. This allowed me to have the voice command for one number after another, until all four correct numbers were said. After I was able to get the code to work, I combined it with my main code. I created the code so that the first prompt on the LCD display is asking to choose what mode or path you want to take to unlock the safe. When combining the code I ran into a couple issues that came down to the way I formatted the code and how I set up all the “if” and “while” statements. I also ran into problems with the knock sensor being bypassed on the code. I resolved this by fixing a minor error where I have double equal signs when I only needed one, and by setting the variable that turned on the knock sensor off after it was done. In mode 2, with the knock sensor, I was unable to have the code where when I said “Lock,” the safe would lock. Again, I had an extra equal sign, but I also did not have that word defined in the setup, causing my code to not recognize when I said the word “Lock.” 
 
 [Final Code](images/Final.ino)
